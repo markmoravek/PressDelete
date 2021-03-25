@@ -1,0 +1,2 @@
+-Presses delete every 2 seconds.
+-Press 'ctrl + c' in the terminal to quit
